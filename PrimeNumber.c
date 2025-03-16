@@ -2,7 +2,7 @@
 
 int main() {
     int num, i;
-    printf("Enter a number: ");
+    printf("Enter a random number: ");
     scanf("%d", &num);
     if (num < 2) {
         printf("%d is Not a Prime Number.\n", num);
